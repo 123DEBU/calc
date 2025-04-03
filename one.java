@@ -7,19 +7,16 @@ public class Addition{
 public static void main(string []args){
 
 
-public int addition(int a,int b){
+public int substraction(int a,int b){
 
 
-return a+b;
+return a-:wqb;
 
 
 
 }
 
 system.out.println("addition is : "+addition(10,20));
-
-
-
 
 
 
